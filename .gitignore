@@ -25,3 +25,8 @@ components.json
 coverage
 lib-cov
 *.log
+.gitignore
+
+# Build output
+docs/.vitepress/dist/
+docs/.vitepress/cache/
